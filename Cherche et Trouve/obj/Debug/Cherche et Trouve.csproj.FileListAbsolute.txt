@@ -1,0 +1,118 @@
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\Cherche et Trouve.dll.config
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\Cherche et Trouve.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\Cherche et Trouve.pdb
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csc.exe
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csc.exe.config
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csc.rsp
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csi.exe
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csi.exe.config
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csi.rsp
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.AppContext.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Console.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.IO.Compression.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Net.Http.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.ValueTuple.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\vbc.exe
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\vbc.exe.config
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\vbc.rsp
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\VBCSCompiler.exe
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\obj\Debug\Cherche et Trouve.csproj.AssemblyReference.cache
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\obj\Debug\Cherche et Trouve.csproj.CoreCompileInputs.cache
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\obj\Debug\Cherche .382B091F.Up2Date
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\obj\Debug\Cherche et Trouve.dll
+C:\Users\lafor\OneDrive\Documents\Cégep\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\obj\Debug\Cherche et Trouve.pdb
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\Cherche et Trouve.dll.config
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\Cherche et Trouve.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\Cherche et Trouve.pdb
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csc.exe
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csc.exe.config
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csc.rsp
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csi.exe
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csi.exe.config
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\csi.rsp
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.AppContext.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Console.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.IO.Compression.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Net.Http.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Net.Sockets.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.ValueTuple.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\vbc.exe
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\vbc.exe.config
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\vbc.rsp
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\VBCSCompiler.exe
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\obj\Debug\Cherche et Trouve.csproj.AssemblyReference.cache
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\obj\Debug\Cherche et Trouve.csproj.CoreCompileInputs.cache
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\obj\Debug\Cherche .382B091F.Up2Date
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\obj\Debug\Cherche et Trouve.dll
+C:\Users\lafor\OneDrive\Documents\Cegep\Session2\Conception Web\Travaux\TP2\Cherche et Trouve\Cherche et Trouve\obj\Debug\Cherche et Trouve.pdb

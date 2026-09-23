@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="author" content="Anthony Laforest" />
+    <meta name="description" content="TP2 - Jeu Cherche et trouve, Un jeu d'objets cachés 
+                                            où le joueur doit trouver des objets dans une image 
+                                            avant que le temps finisse" />
+    <meta name="keywords" content="cherche et trouve" />
+    <title>Cherche et trouve</title>
+    <link href="/css/Style.css" type="text/css" rel="stylesheet" />
+    <link href="/css/Police.css" type="text/css" rel="stylesheet" />
+</head>
+<body>
+    <div id="conteneur">
+        <div id="titre">
+            <h1>Objets cachés</h1>
+        </div>
+        <div class="planche">
+            <div class="image">
+                <img id="fond" src="/img/fond1.jpg" />
+            </div>
+            <div id="panneau">
+                <div>
+                    <p>Mots à trouver</p>
+                    <ul class="listeMots">
+                        <li id="objet0">-</li>
+                        <li id="objet1">-</li>
+                        <li id="objet2">-</li>
+                        <li id="objet3">-</li>
+                        <li id="objet4">-</li>
+                    </ul>
+                </div>
+                <div>
+                    <p>Statistiques</p>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>Erreurs :</td>
+                                <td id="erreurs">0</td>
+                            </tr>
+                            <tr>
+                                <td>Objets trouvés :</td>
+                                <td id="objetsTrouves">0</td>
+                            </tr>
+                            <tr>
+                                <td>Parties gagnées :</td>
+                                <td id="partiesGagnees">0</td>
+                            </tr>
+                            <tr>
+                                <td>Parties perdues :</td>
+                                <td id="partiesPerdues">0</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div>
+                    <p>Temps</p>
+                    <div id="temps">
+                        <span id="minuterie">00:00</span>
+                    </div>
+                </div>
+                <div>
+                    <p>Actions</p>
+                    <input type="button" value="Pause" id="Pause" class="bouton">
+                    <input type="button" value="Commencer" id="Commencer" class="bouton">
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="Js/JQuery.js"></script>
+</body>
+</html>

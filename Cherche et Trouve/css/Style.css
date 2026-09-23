@@ -1,0 +1,153 @@
+﻿/*
+    Auteur:      Anthony Laforest
+    Description: CSS pour le cherche et trouve dans laquelle les taille de text, les couleurs,
+                 les image, un tableau de score et des animations.
+    Date:        2026-04-17.
+*/
+
+body {
+    background-image: url('/img/wallpaper.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+
+#conteneur {
+    width: 1000px;
+    height:600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#titre {
+    width: 100%;
+    text-align: center;
+    color: burlywood;
+    font-family: 'ravieregular';
+}
+
+.planche {
+    width: 100%;
+    height:100%;
+    display: flex;
+    position: relative;
+}
+
+#panneau {
+    width: 20%;
+    height: 100%;
+    background-color: burlywood;
+    color: black;
+    padding-left: 10px;
+    padding-right:10px;
+    border: 5px solid saddlebrown;
+}
+
+.image {
+    width: 800px;
+    height: 100%;
+    border: 5px solid saddlebrown;
+    background-color:black;
+}
+
+#fond {
+    width: 800px;
+    height: 600px;
+    visibility:hidden;
+}
+
+#panneau > div > p {
+    font-size: 25px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-weight:bold;
+}
+
+#score {
+    text-align:center;
+    padding-left:20px
+}
+
+.listeMots {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    color: saddlebrown;
+}
+
+.barre {
+    text-decoration: line-through;
+}
+
+#temps {
+    font-size: 30px;
+    font:bold;
+    color: green;
+    border:5px solid saddlebrown;
+    border-radius:10px 10px;
+    text-align:center;
+}
+
+.bouton {
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    background-color: saddlebrown;
+    border: 2px solid black;
+    font-family: Ravie;
+    color: white;
+    font-size:25px;
+    border-radius:8px 8px;
+}
+
+.objet {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    opacity: 0.75;
+    user-select: none;
+    transition: transform 0.3s, opacity 0.3s;
+}
+
+.objetTrouve {
+    animation: objectAnimationTrouve 1s ease-in;
+}
+
+@keyframes objectAnimationTrouve {
+    0% {
+        transform: translate(0px,0px) scale(1);
+        opacity: 1;
+    }
+
+    50% {
+        transform: translate(0px,-30px) scale(1.2);
+        opacity: 0.5;
+    }
+
+    100% {
+        transform: translate(400px,-30px) scale(0);
+        opacity: 0;
+    }
+}
+
+.gagnée {
+    color: green;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: -600px;
+}
+
+.perdue {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: -600px;
+}

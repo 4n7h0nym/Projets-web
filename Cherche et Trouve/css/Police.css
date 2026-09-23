@@ -1,0 +1,13 @@
+﻿/*
+    Auteur:      Anthony Laforest
+    Description: Police d'ecriture pour le titre du cherche et trouve.
+    Date:        2026-04-17.
+*/
+
+@font-face {
+    font-family: 'ravieregular';
+    src: url('/Fonts/ravie-webfont.eot');
+    src: url('/Fonts/ravie-webfont.eot?#iefix') format('embedded-opentype'), url('/Fonts/ravie-webfont.woff2') format('woff2'), url('/Fonts/ravie-webfont.woff') format('woff'), url('/Fonts/ravie-webfont.ttf') format('truetype'), url('/Fonts/ravie-webfont.svg#ravieregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
